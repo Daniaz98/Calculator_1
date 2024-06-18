@@ -1,0 +1,14 @@
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\bin\Debug\net8.0\Calculator_1.exe
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\bin\Debug\net8.0\Calculator_1.deps.json
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\bin\Debug\net8.0\Calculator_1.runtimeconfig.json
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\bin\Debug\net8.0\Calculator_1.dll
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\bin\Debug\net8.0\Calculator_1.pdb
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.AssemblyInfo.cs
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.dll
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\refint\Calculator_1.dll
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.pdb
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\Calculator_1.genruntimeconfig.cache
+C:\Users\danie\Documents\TI\Web Development\Ex_Csharp\Calculator_1\Calculator_1\obj\Debug\net8.0\ref\Calculator_1.dll
